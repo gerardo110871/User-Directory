@@ -1,0 +1,37 @@
+
+
+.card-- {
+    background-color: white;
+    margin: auto;
+    margin-top: 100px;
+    border: 1px solid grey;
+    padding:50px;
+    height:300px;
+    width:500px;
+    border-radius:10px;
+}
+
+.sort--buttons {
+    background-color: transparent;
+    border: none;
+    font-weight: bold;
+    font-size: 18px;
+    color:white;
+}
+
+.middle--buttons {
+    background-color: blue;
+    color: white;
+    border-radius: 10px;
+    border: none;
+    padding:6px;
+    font-weight: bold;
+    font-size: 16px;
+}
+.all--buttons {
+    background-color: transparent;
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    margin: 5px 710px 20px 710px;
+}
